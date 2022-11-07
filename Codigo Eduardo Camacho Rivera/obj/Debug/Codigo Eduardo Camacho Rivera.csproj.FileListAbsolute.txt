@@ -1,0 +1,8 @@
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\bin\Debug\Codigo Eduardo Camacho Rivera.exe.config
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\bin\Debug\Codigo Eduardo Camacho Rivera.exe
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\bin\Debug\Codigo Eduardo Camacho Rivera.pdb
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\obj\Debug\Codigo Eduardo Camacho Rivera.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\obj\Debug\Codigo Eduardo Camacho Rivera.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\obj\Debug\Codigo Eduardo Camacho Rivera.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\obj\Debug\Codigo Eduardo Camacho Rivera.exe
+C:\Users\Eduardo\source\repos\Codigo Eduardo Camacho Rivera\Codigo Eduardo Camacho Rivera\obj\Debug\Codigo Eduardo Camacho Rivera.pdb
